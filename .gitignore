@@ -1,1 +1,6 @@
-.ipynb_checkpoints/
+<<<<<<< HEAD
+*.ipynb_checkpoints/
+=======
+*.ipynb_checkpoints/
+
+>>>>>>> 238a148723835a7168f85458f9cb4f5f1bfeabfb
